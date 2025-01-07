@@ -5,7 +5,7 @@
 ## Dependencies
 
 The code is compatible with Python 2.7 to 3.6. The following dependencies are
-needed to run the tracker:
+needed to run the tracker, Please Install the following:
 
 * Python Version: 3.6
 *OpenCV Version: 4.5.2
@@ -14,6 +14,7 @@ needed to run the tracker:
 *iMutils Version : 0.5.4
 *Pillow(PIL) Version : 8.2.0
 *Tensorflow Version: 1.14.0
+Then, download pre-generated detections and the CNN checkpoint file from this link (https://drive.google.com/drive/folders/18fKzfqnqhqW3s9zwsCbnVJ5XF2JFeqMp)
 
 
 ## 1: Downloading the Validation Dataset
